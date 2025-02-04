@@ -1,4 +1,4 @@
-# HR Analytics Project
+# HR Analytics Project.
 
 ## Overview
 This project focuses on analyzing and visualizing HR data to uncover insights related to employee demographics, performance, and organizational trends. The project employs advanced tools to process, clean, and analyze data while creating interactive dashboards for stakeholders.
